@@ -7,6 +7,3 @@ xhofe/alist:latest
 
 #adguard
 adguard
-adguard/adguardhome:last
-#arm64
---platform=linux/arm64 adguard/adguardhome
