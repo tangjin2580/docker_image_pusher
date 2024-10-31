@@ -7,3 +7,4 @@ xhofe/alist:latest
 
 docker
 hanxi/xiaomusic
+minio/minio
