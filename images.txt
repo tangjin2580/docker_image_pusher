@@ -7,3 +7,4 @@ xhofe/alist:latest
 
 hanxi/xiaomusic
 minio/minio
+linuxserver/snapdrop
