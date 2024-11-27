@@ -8,3 +8,5 @@ xhofe/alist:latest
 hanxi/xiaomusic
 minio/minio
 linuxserver/snapdrop
+tangjin2580/ipinfo-flask
+tangjin2580/ipinfo-nginx
