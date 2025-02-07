@@ -1,3 +1,4 @@
+soulter/astrbot
 jenkins/jenkins
 nginx
 #支持私库
