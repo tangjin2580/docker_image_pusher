@@ -6,12 +6,11 @@ nginx
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
-
+charlietran/xl2tpd
 hanxi/xiaomusic
 minio/minio
 linuxserver/snapdrop
 tangjin2580/ipinfo-flask
 tangjin2580/ipinfo-nginx
 technitium/dns-server:latest
-charlietran/xl2tpd
+
