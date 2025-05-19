@@ -14,3 +14,4 @@ linuxserver/snapdrop
 tangjin2580/ipinfo-flask
 tangjin2580/ipinfo-nginx
 technitium/dns-server:latest
+charlietran/xl2tpd
