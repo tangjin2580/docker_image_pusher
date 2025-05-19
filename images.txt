@@ -7,6 +7,7 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 hwdsl2/ipsec-vpn-server
+fengzhou/ipsec-vpn-client
 teddysun/l2tp
 hanxi/xiaomusic
 minio/minio
